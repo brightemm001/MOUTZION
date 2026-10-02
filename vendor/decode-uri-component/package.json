@@ -1,0 +1,11 @@
+{
+  "name": "decode-uri-component",
+  "version": "0.5.0",
+  "private": true,
+  "description": "CommonJS adapter for the unmodified, security-patched upstream decoder",
+  "main": "index.cjs",
+  "license": "MIT",
+  "dependencies": {
+    "decode-uri-component-fixed": "npm:decode-uri-component@0.5.0"
+  }
+}
